@@ -44,7 +44,10 @@ plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
 ```
+```
 
+
+```
 ## Output:
 ![Output](https://github.com/DonBoscoBlaiseA/Find-the-best-fit-line-using-Least-Squares-Method/assets/140850829/57677f9c-753d-40fa-88f7-052eb5f2159d)
 
