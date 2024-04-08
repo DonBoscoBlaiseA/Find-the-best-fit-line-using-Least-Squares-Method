@@ -1,4 +1,4 @@
-![Screenshot (128)](https://github.com/DonBoscoBlaiseA/Find-the-best-fit-line-using-Least-Squares-Method/assets/140850829/62d1adfd-130d-4221-8a59-6928b7b0b3b7)# Implementation of Univariate Linear Regression
+# Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -17,6 +17,13 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
+```
+/*
+Program to implement simple linear regression model for predicting the marks scored.
+Developed by: Don Bosco Blaise A
+RegisterNumber: 212221040045
+*/
+
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
@@ -36,6 +43,7 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
+```
 
 ## Output:
 ![Output](https://github.com/DonBoscoBlaiseA/Find-the-best-fit-line-using-Least-Squares-Method/assets/140850829/57677f9c-753d-40fa-88f7-052eb5f2159d)
