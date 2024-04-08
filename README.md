@@ -19,7 +19,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Program:
 ```
 /*
-Program to implement simple linear regression model for predicting the marks scored.
+Program to implement univariate linear regression.
 Developed by: Don Bosco Blaise A
 RegisterNumber: 212221040045
 */
