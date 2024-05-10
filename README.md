@@ -1,4 +1,4 @@
-# Implementation of Univariate Linear Regression
+# Ex.No: 1 Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -55,7 +55,10 @@ plt.show()
 ```
 ## Output:
 <img src="https://github.com/DonBoscoBlaiseA/Find-the-best-fit-line-using-Least-Squares-Method/assets/140850829/23923626-ecf0-4511-92b9-9ec4ff619f16.png" height="600">
-
+<br>
+<br>
+<br>
+<br>  
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
